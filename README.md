@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is David Lin, I have graduated from the University of Caen with a Master's degree in Data Science.
+I also recently earned my Google Data Analytics Professional Certificate.
+
+I enjoy connecting with people with the same interests as mine and from the same field ! Feel free to reach out to discuss about data or anything else !
+
+Find me on LinkedIn -> https://www.linkedin.com/in/davideh-lin/
 <!--
 **Davideh-L/Davideh-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
